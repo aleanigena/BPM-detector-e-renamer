@@ -377,23 +377,10 @@ Possíveis evoluções futuras:
 * [ ] Empacotamento como `.exe`;
 * [ ] Testes automatizados;
 * [ ] Interface multilíngue.
-
----
-
-# 📜 Licença
-
-Defina aqui a licença escolhida para o projeto.
-
-Exemplo:
-
-```text
-MIT License
-```
-
 ---
 
 # 👤 Autor
-
+A.A
 Desenvolvido para facilitar a organização e análise de bibliotecas de música eletrônica.
 
 **BPM Renamer**
